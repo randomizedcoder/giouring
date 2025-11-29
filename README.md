@@ -23,13 +23,13 @@ The **giouring** API is very similar to the [liburing](https://github.com/axboe/
 
 ### Documentation
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/pawelgaczynski/giouring.svg)](https://pkg.go.dev/github.com/pawelgaczynski/giouring)
+[![Go Reference](https://pkg.go.dev/badge/github.com/randomizedcoder/giouring.svg)](https://pkg.go.dev/github.com/randomizedcoder/giouring)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Used by
 
-* [Gain - a high-performance io_uring networking framework written entirely in Go.](https://github.com/pawelgaczynski/gain)
+* [Gain - a high-performance io_uring networking framework written entirely in Go.](https://github.com/randomizedcoder/gain)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
