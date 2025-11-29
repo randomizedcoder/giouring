@@ -1,10 +1,10 @@
-module github.com/pawelgaczynski/giouring
+module github.com/randomizedcoder/giouring
 
-go 1.20
+go 1.25
 
 require (
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/sys v0.10.0
+	golang.org/x/sys v0.38.0
 )
 
 require (
